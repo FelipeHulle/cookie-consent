@@ -2,7 +2,7 @@
 # Cookie Consent Banner
 
 **Project 7 - Frontend - Roadmap.sh**
-🔗 [Project link on roadmap.sh](https://roadmap.sh/projects/cookie-consent) *(link fictício para exemplo)*
+🔗 [Project link on roadmap.sh](https://roadmap.sh/projects/cookie-consent) 
 
 ## 📄 Description
 
